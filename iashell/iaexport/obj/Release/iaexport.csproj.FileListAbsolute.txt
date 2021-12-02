@@ -1,0 +1,14 @@
+C:\development\ImaArchiveGUI\shellext\iashell\iaexport\bin\Release\iaexport.exe.config
+C:\development\ImaArchiveGUI\shellext\iashell\iaexport\bin\Release\iaexport.exe
+C:\development\ImaArchiveGUI\shellext\iashell\iaexport\bin\Release\iaexport.pdb
+C:\development\ImaArchiveGUI\shellext\iashell\iaexport\bin\Release\iaforms.dll
+C:\development\ImaArchiveGUI\shellext\iashell\iaexport\bin\Release\iaforms.pdb
+C:\development\ImaArchiveGUI\shellext\iashell\iaexport\obj\Release\iaexport.csprojAssemblyReference.cache
+C:\development\ImaArchiveGUI\shellext\iashell\iaexport\obj\Release\iachkout.CheckOutSingleForm.resources
+C:\development\ImaArchiveGUI\shellext\iashell\iaexport\obj\Release\iaexport.ExportForm.resources
+C:\development\ImaArchiveGUI\shellext\iashell\iaexport\obj\Release\iaexport.Properties.Resources.resources
+C:\development\ImaArchiveGUI\shellext\iashell\iaexport\obj\Release\iaexport.csproj.GenerateResource.cache
+C:\development\ImaArchiveGUI\shellext\iashell\iaexport\obj\Release\iaexport.csproj.CoreCompileInputs.cache
+C:\development\ImaArchiveGUI\shellext\iashell\iaexport\obj\Release\iaexport.csproj.CopyComplete
+C:\development\ImaArchiveGUI\shellext\iashell\iaexport\obj\Release\iaexport.exe
+C:\development\ImaArchiveGUI\shellext\iashell\iaexport\obj\Release\iaexport.pdb
