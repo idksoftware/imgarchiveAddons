@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "helpdesk/1.0.0": {
+        "dependencies": {
+          "HelpDeskLib": "1.0.0"
+        },
+        "runtime": {
+          "helpdesk.dll": {}
+        }
+      },
+      "HelpDeskLib/1.0.0": {
+        "runtime": {
+          "HelpDeskLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "helpdesk/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HelpDeskLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

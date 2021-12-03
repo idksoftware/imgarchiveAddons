@@ -1,0 +1,12 @@
+C:\development\temp\imgarchiveAddons\login\helpdesk\HelpDeskLib\bin\Debug\net5.0\HelpDeskLib.deps.json
+C:\development\temp\imgarchiveAddons\login\helpdesk\HelpDeskLib\bin\Debug\net5.0\HelpDeskLib.dll
+C:\development\temp\imgarchiveAddons\login\helpdesk\HelpDeskLib\bin\Debug\net5.0\ref\HelpDeskLib.dll
+C:\development\temp\imgarchiveAddons\login\helpdesk\HelpDeskLib\bin\Debug\net5.0\HelpDeskLib.pdb
+C:\development\temp\imgarchiveAddons\login\helpdesk\HelpDeskLib\obj\Debug\net5.0\HelpDeskLib.csproj.AssemblyReference.cache
+C:\development\temp\imgarchiveAddons\login\helpdesk\HelpDeskLib\obj\Debug\net5.0\HelpDeskLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\development\temp\imgarchiveAddons\login\helpdesk\HelpDeskLib\obj\Debug\net5.0\HelpDeskLib.AssemblyInfoInputs.cache
+C:\development\temp\imgarchiveAddons\login\helpdesk\HelpDeskLib\obj\Debug\net5.0\HelpDeskLib.AssemblyInfo.cs
+C:\development\temp\imgarchiveAddons\login\helpdesk\HelpDeskLib\obj\Debug\net5.0\HelpDeskLib.csproj.CoreCompileInputs.cache
+C:\development\temp\imgarchiveAddons\login\helpdesk\HelpDeskLib\obj\Debug\net5.0\HelpDeskLib.dll
+C:\development\temp\imgarchiveAddons\login\helpdesk\HelpDeskLib\obj\Debug\net5.0\ref\HelpDeskLib.dll
+C:\development\temp\imgarchiveAddons\login\helpdesk\HelpDeskLib\obj\Debug\net5.0\HelpDeskLib.pdb

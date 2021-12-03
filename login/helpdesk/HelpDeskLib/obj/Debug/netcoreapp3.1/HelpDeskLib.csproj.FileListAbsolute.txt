@@ -1,0 +1,10 @@
+C:\development\temp\imgarchiveAddons\login\helpdesk\HelpDeskLib\bin\Debug\netcoreapp3.1\HelpDeskLib.deps.json
+C:\development\temp\imgarchiveAddons\login\helpdesk\HelpDeskLib\bin\Debug\netcoreapp3.1\HelpDeskLib.dll
+C:\development\temp\imgarchiveAddons\login\helpdesk\HelpDeskLib\bin\Debug\netcoreapp3.1\HelpDeskLib.pdb
+C:\development\temp\imgarchiveAddons\login\helpdesk\HelpDeskLib\obj\Debug\netcoreapp3.1\HelpDeskLib.csproj.AssemblyReference.cache
+C:\development\temp\imgarchiveAddons\login\helpdesk\HelpDeskLib\obj\Debug\netcoreapp3.1\HelpDeskLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\development\temp\imgarchiveAddons\login\helpdesk\HelpDeskLib\obj\Debug\netcoreapp3.1\HelpDeskLib.AssemblyInfoInputs.cache
+C:\development\temp\imgarchiveAddons\login\helpdesk\HelpDeskLib\obj\Debug\netcoreapp3.1\HelpDeskLib.AssemblyInfo.cs
+C:\development\temp\imgarchiveAddons\login\helpdesk\HelpDeskLib\obj\Debug\netcoreapp3.1\HelpDeskLib.csproj.CoreCompileInputs.cache
+C:\development\temp\imgarchiveAddons\login\helpdesk\HelpDeskLib\obj\Debug\netcoreapp3.1\HelpDeskLib.dll
+C:\development\temp\imgarchiveAddons\login\helpdesk\HelpDeskLib\obj\Debug\netcoreapp3.1\HelpDeskLib.pdb
