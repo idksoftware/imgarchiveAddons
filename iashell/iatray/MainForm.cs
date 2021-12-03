@@ -323,8 +323,8 @@ namespace iatray
 
         private void propertiesToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            PropertiesForm fmmForm = new PropertiesForm();
-            fmmForm.ShowDialog();
+            PropertiesForm propertiesForm = new PropertiesForm();
+            propertiesForm.ShowDialog();
         }
 
         private void exitToolStripMenuItem_Click(object sender, EventArgs e)
@@ -647,6 +647,11 @@ namespace iatray
             }
             importQueueForm.Show();
             importQueueForm.WindowState = FormWindowState.Normal;
+        }
+
+        private void workspaceToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
