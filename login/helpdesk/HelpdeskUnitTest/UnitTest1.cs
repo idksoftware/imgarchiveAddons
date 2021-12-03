@@ -55,11 +55,11 @@ namespace HelpdeskUnitTest
             helpDeskData.WriteFile();
             helpDeskData.ReadFile();
         }
-        /*
+        
         [TestMethod]
-        public void TestMethod1()
+        public void TestMethod3()
         {
-            LoginCommands lc = new LoginCommands();
+            Logincredentials lc = new Logincredentials();
             lc.AddUser("John", "012345678","John@hotmail.com");
             lc.AddUser("Iain", "123456789", "i.ferguson@idk.co.uk");
             lc.AddUser("Joe", "234567890","Joe@hotmail.com");
@@ -69,44 +69,44 @@ namespace HelpdeskUnitTest
         }
 
         [TestMethod]
-        public void TestMethod2()
+        public void TestMethod4()
         {
-            
-            LoginCommands lc = new LoginCommands();
+
+            Logincredentials lc = new Logincredentials();
             bool res = lc.Login("Iain", "123456789");
 
             Assert.AreEqual(res, true, "test 2 passed");
         }
 
         [TestMethod]
-        public void TestMethod3()
+        public void TestMethod5()
         {
-            
-            LoginCommands lc = new LoginCommands();
+
+            Logincredentials lc = new Logincredentials();
             bool res = lc.NewUser("Tom", "Qaz2wsx3edc..", "Tom@hotmail.com");
 
             Assert.AreEqual(res, true, "test 3 passed");
         }
 
         [TestMethod]
-        public void TestMethod4()
+        public void TestMethod6()
         {
 
-            LoginCommands lc = new LoginCommands();
+            Logincredentials lc = new Logincredentials();
             bool res = lc.NewPassword("Tom", "Qaz2wsx3edc..", "Qaz2wsx3edc.{}");
 
             Assert.AreEqual(res, true, "test 3 passed");
         }
 
         [TestMethod]
-        public void TestMethod5()
+        public void TestMethod7()
         {
 
-            LoginCommands lc = new LoginCommands();
+            Logincredentials lc = new Logincredentials();
             String res = lc.ForgotPassword("Tom");
 
             //Assert.AreEqual(res, "Tom@hotmail.com", "test 3 passed");
         }
-        */
+        
     }
 }

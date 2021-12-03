@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
-using System.Linq;
+
 using System.Text;
-using System.Threading.Tasks;
+
 using System.Windows.Forms;
 using HelpDeskLib;
 
@@ -27,13 +27,23 @@ namespace helpdesk
                 {
 
                 }
-
+                loadHelpDeskData();
             }
         }
         private void loadHelpDeskData()
         {
             HelpDeskData helpDeskData = new HelpDeskData();
             helpDeskData.ReadFile();
+            foreach (KeyValuePair<string, Customer> entry in helpDeskData.List)
+            {
+                ListViewItem lvi = new ListViewItem(entry.Value.Name);
+                
+                lvi.SubItems.Add(entry.Value.Address);
+                lvi.SubItems.Add(entry.Value.Email);
+                lvi.SubItems.Add(entry.Value.User);
+                lvi.SubItems.Add(entry.Value.Password);
+                listViewMain.Items.Add(lvi);
+            }
         }
     }
 }

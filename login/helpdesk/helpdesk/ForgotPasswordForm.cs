@@ -14,5 +14,20 @@ namespace helpdesk
         {
             InitializeComponent();
         }
+
+        private void buttonReset_Click(object sender, EventArgs e)
+        {
+            using (ResetForm resetForm = new ResetForm())
+            {
+                DialogResult result = resetForm.ShowDialog();
+                if (result == DialogResult.OK)
+                {
+
+                }
+               
+            }
+        }
+
+        
     }
 }

@@ -1,0 +1,15 @@
+C:\development\temp\imgarchiveAddons\login\helpdesk\HelpdeskUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\development\temp\imgarchiveAddons\login\helpdesk\HelpdeskUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\development\temp\imgarchiveAddons\login\helpdesk\HelpdeskUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\development\temp\imgarchiveAddons\login\helpdesk\HelpdeskUnitTest\bin\Debug\HelpdeskUnitTest.dll
+C:\development\temp\imgarchiveAddons\login\helpdesk\HelpdeskUnitTest\bin\Debug\HelpdeskUnitTest.pdb
+C:\development\temp\imgarchiveAddons\login\helpdesk\HelpdeskUnitTest\bin\Debug\HelpDeskLib.dll
+C:\development\temp\imgarchiveAddons\login\helpdesk\HelpdeskUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\development\temp\imgarchiveAddons\login\helpdesk\HelpdeskUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\development\temp\imgarchiveAddons\login\helpdesk\HelpdeskUnitTest\bin\Debug\HelpDeskLib.pdb
+C:\development\temp\imgarchiveAddons\login\helpdesk\HelpdeskUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\development\temp\imgarchiveAddons\login\helpdesk\HelpdeskUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\development\temp\imgarchiveAddons\login\helpdesk\HelpdeskUnitTest\obj\Debug\HelpdeskUnitTest.csproj.CoreCompileInputs.cache
+C:\development\temp\imgarchiveAddons\login\helpdesk\HelpdeskUnitTest\obj\Debug\HelpdeskUnitTest.csproj.CopyComplete
+C:\development\temp\imgarchiveAddons\login\helpdesk\HelpdeskUnitTest\obj\Debug\HelpdeskUnitTest.dll
+C:\development\temp\imgarchiveAddons\login\helpdesk\HelpdeskUnitTest\obj\Debug\HelpdeskUnitTest.pdb

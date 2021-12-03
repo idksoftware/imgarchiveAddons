@@ -185,6 +185,9 @@ namespace HelpDeskLib
             return true;
         }
 
+        public Dictionary<string, Customer> List
+        { get { return m_customerList; } }
+
         public bool NewCustomer(Customer customer)
         {
             if (m_customerList.ContainsKey(customer.User)) 

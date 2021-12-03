@@ -31,12 +31,7 @@ namespace helpdesk
 
         private void buttonSubmit_Click(object sender, EventArgs e)
         {
-            if (!Logincredentials.ValidatePassword(Password))
-            {
-                string box_msg = "The password " + Password + " must be over 9 characters, contain Upper, lower, number and \"!£$%^&*()_-+={}[]:@~;'#|\\.,<>?/";
-                string box_title = "Help Desk";
-                MessageBox.Show(box_msg, box_title);
-            }
+            
             DialogResult = DialogResult.OK;
             this.Close();
         }

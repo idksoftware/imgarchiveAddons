@@ -1,10 +1,22 @@
 {
   "version": 3,
   "targets": {
-    "net5.0-windows7.0": {
+    ".NETFramework,Version=v4.7.2": {
       "HelpDeskLib/1.0.0": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v5.0",
+        "framework": ".NETFramework,Version=v4.7.2",
+        "compile": {
+          "bin/placeholder/HelpDeskLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/HelpDeskLib.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.2/win7-x86": {
+      "HelpDeskLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.7.2",
         "compile": {
           "bin/placeholder/HelpDeskLib.dll": {}
         },
@@ -22,7 +34,7 @@
     }
   },
   "projectFileDependencyGroups": {
-    "net5.0-windows7.0": [
+    ".NETFramework,Version=v4.7.2": [
       "HelpDeskLib >= 1.0.0"
     ]
   },
@@ -51,15 +63,15 @@
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net5.0-windows7.0"
+        "net472"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net5.0-windows7.0": {
-          "targetAlias": "net5.0-windows",
+        "net472": {
+          "targetAlias": "net472",
           "projectReferences": {
             "C:\\development\\temp\\imgarchiveAddons\\login\\helpdesk\\HelpDeskLib\\HelpDeskLib.csproj": {
               "projectPath": "C:\\development\\temp\\imgarchiveAddons\\login\\helpdesk\\HelpDeskLib\\HelpDeskLib.csproj"
@@ -74,27 +86,14 @@
       }
     },
     "frameworks": {
-      "net5.0-windows7.0": {
-        "targetAlias": "net5.0-windows",
-        "imports": [
-          "net461",
-          "net462",
-          "net47",
-          "net471",
-          "net472",
-          "net48"
-        ],
-        "assetTargetFallback": true,
-        "warn": true,
-        "frameworkReferences": {
-          "Microsoft.NETCore.App": {
-            "privateAssets": "all"
-          },
-          "Microsoft.WindowsDesktop.App.WindowsForms": {
-            "privateAssets": "none"
-          }
-        },
+      "net472": {
+        "targetAlias": "net472",
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+      }
+    },
+    "runtimes": {
+      "win7-x86": {
+        "#import": []
       }
     }
   }
