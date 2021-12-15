@@ -13,3 +13,4 @@ C:\development\temp\imgarchiveAddons\login\helpdesk\HelpdeskUnitTest\obj\Debug\H
 C:\development\temp\imgarchiveAddons\login\helpdesk\HelpdeskUnitTest\obj\Debug\HelpdeskUnitTest.csproj.CopyComplete
 C:\development\temp\imgarchiveAddons\login\helpdesk\HelpdeskUnitTest\obj\Debug\HelpdeskUnitTest.dll
 C:\development\temp\imgarchiveAddons\login\helpdesk\HelpdeskUnitTest\obj\Debug\HelpdeskUnitTest.pdb
+C:\development\temp\imgarchiveAddons\login\helpdesk\HelpdeskUnitTest\obj\Debug\HelpdeskUnitTest.csproj.AssemblyReference.cache

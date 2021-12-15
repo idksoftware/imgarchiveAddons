@@ -39,6 +39,7 @@ namespace helpdesk
                 ListViewItem lvi = new ListViewItem(entry.Value.Name);
                 
                 lvi.SubItems.Add(entry.Value.Address);
+                lvi.SubItems.Add(entry.Value.Phone);
                 lvi.SubItems.Add(entry.Value.Email);
                 lvi.SubItems.Add(entry.Value.User);
                 lvi.SubItems.Add(entry.Value.Password);
